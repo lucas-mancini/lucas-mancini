@@ -17,7 +17,8 @@ I'm a passionate software engineer with over a decade of experience that holds a
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40lucas--mancini-09b43a.svg)](https://github.com/lucas-mancini)
 [![Twitter](https://img.shields.io/badge/X-%40lucasmancini-1d9bf0.svg)](https://x.com/lucasmancini)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_Mancini-0c66c3.svg)](www.linkedin.com/in/lucasmancini)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas_Mancini-0077b5.svg)](www.linkedin.com/in/lucasmancini)
+[![Toptal](https://img.shields.io/badge/Toptal-Lucas_Mancini-204ecf.svg)](https://www.toptal.com/resume/lucas-mancini)
 
 ---
 
