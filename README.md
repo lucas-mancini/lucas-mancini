@@ -3,7 +3,7 @@
 I'm Lucas, originally from Argentina 🇦🇷, currently based in Australia 🇦🇺.
 
 ## 👨‍💻 About me
-I'm a passionate software engineer with over a decade of experience that holds a computer science degree. I've had the privilege of managing greenfield projects, leading diverse teams, and contributing to both startups in stealth mode and large corporations, always working closely with product. My journey has also led me to make meaningful contributions to open-source repositories.
+I'm a passionate software engineer with over a decade of experience. I've had the privilege of managing greenfield projects, leading diverse teams, and contributing to both startups in stealth mode and large corporations, always working closely with product. My journey has also led me to make meaningful contributions to open-source repositories. I also hold a computer science degree.
 
 ## 🔭 Skills and experience
 - Software engineering specializing in Frontend Development, with experience in Full Stack and Mobile App Development
